@@ -21,5 +21,3 @@ sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin d
 # Grant permission for current user
 sudo groupadd docker
 sudo usermod -aG docker $USER
-
-reboot
