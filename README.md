@@ -1,5 +1,5 @@
 # docker_setup
 8th Dec.
 
-docker compose included.
-will reboot when all installations completed.
+**docker compose included**<br>
+You need to reboot your computer when the installation completes.
